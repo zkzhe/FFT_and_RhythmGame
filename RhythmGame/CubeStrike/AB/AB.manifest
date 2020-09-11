@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 3045002906
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cube1
+      Dependencies: {}
+    Info_1:
+      Name: game.unity3d
+      Dependencies:
+        Dependency_0: cube1

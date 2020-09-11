@@ -1,0 +1,155 @@
+ManifestFileVersion: 0
+CRC: 2973822329
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ce60a706196e594eb6318fda5335681
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 946b1ec06a5fb353e81602d4819d028c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 45
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8bcd03e00992e084c8be61565d44b8bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 50c18f617e47f0040aea0ae91fafa728, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1ee4c815a8bdcd498051fc4b8ef6807, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23b858b1f8288e5408096f48c6c20d09, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -619905303, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e0ed5922e911b343b8400997c95409c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa9047a2d3b25b342b5b2ccb64e76eaa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e2a4a24a92179b46bb6bf6db7bf5ed0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 327c5c2481516944cae3a1c1aedc2594, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0dc022357de01df4580f65a7db09faf0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54fbce95767825e469bdca438956b5af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 929c7296dda444042a291db34621c0a3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26ef1796ac5a44944bd1f1345855a535, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da566bd63eb01fc4a8707ae2c06c9356, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c9f2aa7eed0be949a2aa549d39d0706, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b8df2b7d08568f41bcbb196c8a24269, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 656712486af064744a19028482b1c778, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efee0558277db9e489bad817d11348bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c592f16851a620743868a31232613370, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ae87878827c19c4bae29393dda0f7f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb8f8839ee256bb458e1657c1ee40572, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d13e5d0a87b01f94d9a55bfb4925859b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c56d761b8818e6c4aa4a3fa18be88954, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7debc7c03a73da4caf9ae421fc8e123, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e199848db17e11f47b094cdea32313b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 37c5288dfa9efd14da62feee804531cd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: abb0e8dd6c809854f8fea5e0976884f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3aa6513e0e9c3ac44b96d4ceddb26863, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84c9040fe049a5d4e9cdf3c61e1b85f7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+Assets:
+- Assets/Load/GameObject.prefab
+Dependencies:
+- C:/Users/ZHE/Desktop/RhythmGame/CubeStrike/AB/cube1
